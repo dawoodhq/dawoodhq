@@ -33,7 +33,7 @@
   - `Node.js`, `React.js`, `Next.js`
 - 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
 - 💫 Interests: AIOps/AI [agentic] engineering, LLM integration, SaaS applications, fullstack web development
-- 📚 Learning: `GoLang`, `C#`, `Svelte`, Langchain, Agno
+- 📚 Learning: `GoLang`, `C++`, `C#`, `Svelte`, Langchain, Agno
 - 📝 Experience: SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
 
 
