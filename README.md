@@ -29,7 +29,7 @@
 
 # 👋 Hey, I'm Dawood
 
-Full-stack developer + software engineer specializing in AI integration and scalable web applications, with a growing passion for machine learning. I’m a junior student based in the Bay Area.
+Full-stack developer + software engineer specializing in AI integration and scalable web applications, with a growing passion for machine learning. I’m a high-school junior based in the Bay Area.
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, TypeScript, Python, Lua  
