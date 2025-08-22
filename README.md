@@ -37,7 +37,7 @@ Full-stack developer + software engineer specializing in AI integration and scal
 **Data:** MySQL, MongoDB, Redis  
 
 ## 🚀 Focus Areas
-* AI/LLM integration & agentic systems
+* AI engineering, LLM integration, & agentic systems
 * SaaS applications & APIs  
 * Data dashboards & authentication systems
 
