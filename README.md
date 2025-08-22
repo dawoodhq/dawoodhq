@@ -27,15 +27,31 @@
 
 
 
-## 👋 Hey there, I’m Dawood.
-- 👀 I'm interested in working on frontend, backend, general software, and AI engineering/LLM integration projects. Open for collaboration, just shoot me a email or message!
-- 🧠 Mastery: `CSS`, `JavaScript`, `TypeScript`, `Python`, `Lua`,
-  - `Node.js`, `React.js`, `Next.js`
-- 💽 Databases: `MySQL`, `MongoDB`, `Redis`.
-- 💫 Interests: AIOps/AI [agentic] engineering, LLM integration, SaaS applications, fullstack web development
-- 📚 Learning: `GoLang`, `C++`, `C#`, `Svelte`, Langchain, Agno
-- 📝 Experience: SaaS [websites and tools], APIs, data-responsive dashboards, advanced authentication systems, general-purpose multi-tools, and much more.
+# 👋 Hey, I'm Dawood
 
+Full-stack developer + software engineer specializing in AI integration and scalable web applications, with a growing passion for machine learning. I’m a junior student based in the Bay Area.
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript, TypeScript, Python, Lua  
+**Stack:** React, Next.js, Node.js  
+**Data:** MySQL, MongoDB, Redis  
+
+## 🚀 Focus Areas
+* AI/LLM integration & agentic systems
+* SaaS applications & APIs  
+* Data dashboards & authentication systems
+
+## 🌱 Currently Learning
+GoLang • C++ • Svelte • Langchain
+
+## 💼 Experience
+
+### <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEA5YarnByjHw/company-logo_200_200/B4EZbxoGyeGcAI-/0/1747810545134/flexcompute_inc_logo?e=2147483647&v=beta&t=XIRtipW52Nu0OeX6VGNyMZjWid5Y3mRJnzBnk20fQ6k" width="20" height="20" style="vertical-align: middle;">​​ ​​​ ​[FlexCompute](https://www.flexcompute.com) | **Software Engineer Intern**
+* Collaborated with an intern team to develop an autonomous CFD drone, leveraging Flow360’s aerodynamic modeling to optimize flight performance under MIT Professor Qiqi Wang.
+* Engineered key feature upgrades for Flow360’s Python client (v25.6.4), extending the library’s functionality with customer-driven enhancements and streamlined API design.
+
+---
+I'm always open to bold collaborations, let’s turn ambitious ideas into reality!
 
  <!--
  
