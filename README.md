@@ -47,9 +47,9 @@ GoLang • C++ • Svelte • Langchain
 ## 💼 Experience
 
 ### <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEA5YarnByjHw/company-logo_200_200/B4EZbxoGyeGcAI-/0/1747810545134/flexcompute_inc_logo?e=2147483647&v=beta&t=XIRtipW52Nu0OeX6VGNyMZjWid5Y3mRJnzBnk20fQ6k" width="20" height="20" style="vertical-align: middle;">​​ ​​​ ​[FlexCompute](https://www.flexcompute.com) | **Software Engineer Intern**
-* Collaborated with an intern team to develop an autonomous CFD drone, leveraging Flow360’s aerodynamic modeling to optimize flight performance under MIT Professor Qiqi Wang.
+* Recruited to collaborate with other high school students to design and develop an autonomous aircraft, leveraging Flexcompute's Flow360 aerodynamic modeling software to optimize flight performance under the guidance of the company's co-founder and MIT Aero/Astro Professor Qiqi Wang.
 * Engineered key feature upgrades for Flow360’s Python client (v25.6.4), extending the library’s functionality with customer-driven enhancements and streamlined API design.
-
+* 
 ---
 I'm always open to bold collaborations, let’s turn ambitious ideas into reality!
 
